@@ -16,7 +16,6 @@ firebase.initializeApp({
   projectId: "lecture-firebase-f15af",
   storageBucket: "lecture-firebase-f15af.appspot.com",
   messagingSenderId: "206800055592",
-  appId: "1:206800055592:web:e90a8d3afb99b110cdf41d",
 });
 
 const MoonIcon = props => (
